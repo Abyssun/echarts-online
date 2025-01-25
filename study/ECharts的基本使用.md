@@ -32,7 +32,7 @@ Echarts是一个使用JavaScript实现的开源可视化库，兼容性强，底
 
 - 效果：
 
-  ![image-20250108154004909](G:\echarts-online\study\assets\效果图)
+  ![image-20250108154004909](.\assets\效果图)
 
 - 配置项的使用
   - 除了配置项会变化之外，其他的代码都是固定的
@@ -44,7 +44,7 @@ Echarts是一个使用JavaScript实现的开源可视化库，兼容性强，底
 - yAxis：直角坐标系中的y轴
 - series：系列列表。每个系列通过type决定自己的图表类型
 
-![image-20250108195048769](G:\echarts-online\study\assets\image-20250108195048769.png)
+![image-20250108195048769](.\assets\image-20250108195048769.png)
 
 - 官方文档的查阅
 - 配置项太多，无需去刻意记忆
